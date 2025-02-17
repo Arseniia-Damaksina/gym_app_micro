@@ -1,0 +1,3 @@
+[submodule "gym_app"]
+	path = gym_app
+	url = https://github.com/Arseniia-Damaksina/gym_app.git
